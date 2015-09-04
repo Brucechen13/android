@@ -35,7 +35,7 @@ public class blurEffectsOnDrawableAct extends Activity {
             @Override
             public void onClick(View v) {
                 // TODO Auto-generated method stub
-                Common.blurEffectsOnDrawable(mContext, R.drawable.airdroid, 25);
+                Common.blurEffectsOnDrawable(mContext, R.mipmap.airdroid, 25);
             }
         });
 

@@ -1,0 +1,429 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:2:1-217:12
+	package
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:3:11-37
+		INJECTED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml
+		INJECTED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:5:11-36
+	android:versionCode
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml
+		INJECTED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:7:5-9:40
+MERGED from [com.android.support:appcompat-v7:21.0.3] E:\StudyDepot\code\Android_util\utils\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] E:\StudyDepot\code\Android_util\utils\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] E:\StudyDepot\code\Android_util\utils\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:15:5-42
+MERGED from [com.github.traex.rippleeffect:library:1.2.3] E:\StudyDepot\code\Android_util\utils\build\intermediates\exploded-aar\com.github.traex.rippleeffect\library\1.2.3\AndroidManifest.xml:8:5-10:41
+	android:targetSdkVersion
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml
+		INJECTED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml
+		INJECTED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.INTERNET
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:15:5-78
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.ACCESS_GPS
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:19:22-66
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:21:5-74
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:21:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:24:22-77
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:26:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:27:5-73
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:27:22-71
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:28:5-75
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:28:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:29:5-75
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:29:22-73
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:30:5-71
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:30:22-69
+application
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:32:5-215:19
+MERGED from [com.android.support:appcompat-v7:21.0.3] E:\StudyDepot\code\Android_util\utils\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] E:\StudyDepot\code\Android_util\utils\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] E:\StudyDepot\code\Android_util\utils\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:16:5-19
+MERGED from [com.github.traex.rippleeffect:library:1.2.3] E:\StudyDepot\code\Android_util\utils\build\intermediates\exploded-aar\com.github.traex.rippleeffect\library\1.2.3\AndroidManifest.xml:12:5-20
+	android:label
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:35:9-41
+	android:allowBackup
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:33:9-35
+	android:icon
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:34:9-43
+	android:theme
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:36:9-40
+activity#com.common.utils.HomeActivity
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:37:9-46:20
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:40:13-49
+	android:label
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:39:13-45
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:38:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:42:17-68
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:44:17-76
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:44:27-74
+service#com.common.utils.BackgroundMusicService
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:48:9-55:19
+	android:enabled
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:50:13-35
+	android:process
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:51:13-38
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:49:13-51
+intent-filter#.BackgroundMusicService
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:52:13-54:29
+action#.BackgroundMusicService
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:53:17-65
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:53:25-63
+activity#com.common.utils.MainActivity
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:58:9-60:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:60:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:59:13-41
+activity#com.common.utils.MaterialView
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:62:9-64:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:64:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:63:13-41
+activity#com.common.utils.CodeSnippestHomeActivity
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:66:9-68:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:68:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:67:13-53
+activity#com.common.example.ClientGetActivity
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:70:9-72:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:72:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:71:13-64
+activity#com.common.example.ClientPostActivity
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:74:9-76:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:76:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:75:13-65
+activity#com.common.example.ClientPostMultipartEntityActivity
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:78:9-80:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:80:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:79:13-80
+activity#com.common.example.ValidationAct
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:81:9-83:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:83:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:82:13-60
+activity#com.common.example.DateFormateAct
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:84:9-86:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:86:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:85:13-61
+activity#com.common.example.SetPrefAct
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:87:9-89:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:89:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:88:13-57
+activity#com.common.example.GetPrefAct
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:90:9-92:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:92:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:91:13-57
+activity#com.common.example.GetCurrentLocationAct
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:93:9-95:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:95:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:94:13-68
+activity#com.common.example.PinchZoomImageViewAct
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:96:9-98:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:98:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:97:13-68
+activity#com.common.example.AppIconAct
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:99:9-101:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:101:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:100:13-57
+activity#com.common.example.SendLocatoNotificationAct
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:102:9-104:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:104:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:103:13-72
+activity#com.common.example.SendE_MailAct
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:105:9-107:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:107:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:106:13-60
+activity#com.common.example.ScreenModeDis_Ean_Act
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:108:9-110:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:110:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:109:13-68
+activity#com.common.example.OpenUrlINBrowserAct
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:111:9-113:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:113:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:112:13-66
+activity#com.common.example.DownloadImageFromUrlAct
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:114:9-116:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:116:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:115:13-70
+activity#com.common.example.BackGroundMusicStartStopAct
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:117:9-119:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:119:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:118:13-74
+activity#com.common.example.BluetoothOrWifiOnOffAct
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:120:9-122:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:122:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:121:13-70
+activity#com.common.example.GetRandomNumberAct
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:123:9-125:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:125:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:124:13-65
+activity#com.common.example.PostFixForNumberAct
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:126:9-128:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:128:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:127:13-66
+activity#com.common.example.blurEffectsOnDrawableAct
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:129:9-131:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:131:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:130:13-71
+activity#com.common.example.UrlValidationRippleActivity
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:132:9-134:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:134:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:133:13-74
+activity#com.common.example.CommonActivity
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:135:9-137:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:137:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:136:13-61
+activity#com.common.utils.social.LinkedInActivity
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:138:9-140:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:140:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:139:13-52
+activity#com.common.utils.ProfileActivity
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:141:9-143:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:143:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:142:13-44
+activity#com.common.example.ArraylistToStringActivity
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:144:9-146:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:146:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:145:13-72
+activity#com.common.example.BlurEffectActivity
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:147:9-149:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:149:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:148:13-65
+activity#com.common.example.DrawableToBitmapActivity
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:150:9-152:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:152:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:151:13-71
+activity#com.common.example.SaveImageInPreference
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:153:9-155:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:155:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:154:13-68
+activity#com.common.example.VerticalTextViewsActivity
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:156:9-158:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:158:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:157:13-72
+activity#com.common.example.RoundedBitmapActivity
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:159:9-161:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:161:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:160:13-68
+activity#com.common.example.PreventClickActivity
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:162:9-164:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:164:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:163:13-67
+activity#com.common.example.PickCaptureActivity
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:165:9-167:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:167:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:166:13-66
+activity#com.common.example.EmailContactsScreenShotActivity
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:168:9-170:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:170:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:169:13-78
+activity#com.common.example.ImageVideoActivity
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:171:9-173:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:173:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:172:13-65
+activity#com.common.example.AddressOnMapActivity
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:174:9-176:51
+	android:screenOrientation
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:176:13-49
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:175:13-67
+activity#com.common.example.CreateFolderActivity
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:177:9-179:67
+	android:label
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:179:13-65
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:178:13-67
+activity#com.common.example.DateDifferenceActivity
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:180:9-182:69
+	android:label
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:182:13-67
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:181:13-69
+activity#com.common.example.StringToDateActivity
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:183:9-185:68
+	android:label
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:185:13-66
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:184:13-67
+activity#com.common.example.ToastActivity
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:186:9-188:59
+	android:label
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:188:13-57
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:187:13-60
+activity#com.common.example.ChooseProfileActivity
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:189:9-191:68
+	android:label
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:191:13-66
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:190:13-68
+activity#com.common.example.VolumeActivity
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:192:9-194:60
+	android:label
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:194:13-58
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:193:13-61
+activity#com.common.example.FileCountActivity
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:195:9-197:64
+	android:label
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:197:13-62
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:196:13-64
+activity#com.common.example.ColorPickerActivity
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:198:9-200:66
+	android:label
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:200:13-64
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:199:13-66
+activity#com.common.example.DownloadActivity
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:201:9-203:62
+	android:label
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:203:13-60
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:202:13-63
+activity#com.common.utils.MaterialLibrariesListActivity
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:205:9-207:15
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:206:13-74
+activity#eu.janmuller.android.simplecropimage.CropImage
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:209:9-82
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:209:19-80
+provider#com.common.utils.InternalStorageContentProvider
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:211:9-214:38
+	android:authorities
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:213:13-51
+	android:exported
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:214:13-36
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:212:13-59

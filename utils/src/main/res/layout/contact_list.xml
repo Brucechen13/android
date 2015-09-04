@@ -46,7 +46,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
         android:padding="5dp"
-        android:src="@drawable/blank_profile" />
+        android:src="@mipmap/blank_profile" />
 
     <TextView
         android:id="@+id/cEmail"

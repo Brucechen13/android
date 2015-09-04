@@ -17,7 +17,7 @@
             android:layout_gravity="center"
             android:adjustViewBounds="true"
             android:scaleType="fitStart"
-            android:src="@drawable/bg_color" />
+            android:src="@mipmap/bg_color" />
 
 
         <Button

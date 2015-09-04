@@ -16,7 +16,7 @@ public class RoundedBitmapActivity extends Activity {
 
         ImageView ivImage = (ImageView) findViewById(R.id.rounded_bitmap_iv_image);
 
-        ivImage.setImageBitmap(Common.getRoundedCornerBitmap(Common.drawableTobitmap(this, R.drawable.abc), 30));
+        ivImage.setImageBitmap(Common.getRoundedCornerBitmap(Common.drawableTobitmap(this, R.mipmap.abc), 30));
     }
 
 
