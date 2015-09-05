@@ -308,6 +308,7 @@ public class MainActivity extends Activity {
                 intent = new Intent(mContext, DownloadActivity.class);
                 break;
             case 48:
+                intent = new Intent(mContext, Hanzi2PinyinActivity.class);
                 break;
         }
         if (intent != null)

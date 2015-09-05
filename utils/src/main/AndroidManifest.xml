@@ -208,6 +208,8 @@
 
         <activity android:name="eu.janmuller.android.simplecropimage.CropImage"/>
 
+        <activity android:name=".Hanzi2PinyinActivity"/>
+
         <provider
             android:name=".InternalStorageContentProvider"
             android:authorities="com.common.utils"

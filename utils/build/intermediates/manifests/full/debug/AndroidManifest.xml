@@ -197,6 +197,7 @@
             android:label="@string/title_activity_download" />
         <activity android:name="com.common.utils.MaterialLibrariesListActivity" />
         <activity android:name="eu.janmuller.android.simplecropimage.CropImage" />
+        <activity android:name="com.common.utils.Hanzi2PinyinActivity" />
 
         <provider
             android:name="com.common.utils.InternalStorageContentProvider"

@@ -9,20 +9,82 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5158a57-0172-43b1-9015-3e28f96c1b87" name="Default" comment="update to studio">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/pinyin4j_2_5_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/MainActivity$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/MainActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/MainActivity$2.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/MainActivity$2.class" />
+    <list default="true" id="b5158a57-0172-43b1-9015-3e28f96c1b87" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/src/main/java/com/common/utils/util/HanZiToPinYin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/src/main/java/com/common/utils/Hanzi2PinyinActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/src/main/res/layout/activity_hanzi2pinyin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/AppIconAct.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/AppIconAct.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/BackGroundMusicStartStopAct.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/BackGroundMusicStartStopAct.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/BluetoothOrWifiOnOffAct.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/BluetoothOrWifiOnOffAct.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ClientGetActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ClientGetActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ClientPostActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ClientPostActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ClientPostMultipartEntityActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ClientPostMultipartEntityActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/CodeSnippestHomeActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/CodeSnippestHomeActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/ContactActivity$ContactAdapter.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/ContactActivity$ContactAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/ContactActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/ContactActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/DateFormateAct.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/DateFormateAct.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/DownloadImageFromUrlAct.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/DownloadImageFromUrlAct.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/GetContacts.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/GetContacts.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/GetCurrentLocationAct.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/GetCurrentLocationAct.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/GetPrefAct.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/GetPrefAct.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/GetRandomNumberAct.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/GetRandomNumberAct.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/HomeActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/HomeActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ImageVideoActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ImageVideoActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/LinkedInActivity$OauthStart.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/LinkedInActivity$OauthStart.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/LinkedInActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/LinkedInActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/MainActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/MaterialLibrariesListActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/MaterialLibrariesListActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/MaterialView.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/MaterialView.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/OAuthActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/OAuthActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/OpenUrlINBrowserAct.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/OpenUrlINBrowserAct.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/PickCaptureActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/PickCaptureActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/PinchZoomImageViewAct.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/PinchZoomImageViewAct.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/PostFixForNumberAct.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/PostFixForNumberAct.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/PreventClickActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/PreventClickActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/ProfileActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/ProfileActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$id.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/R$id.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$integer.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$layout.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/R$layout.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$mipmap.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$mipmap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$raw.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$raw.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$string.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$style.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$styleable.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/RoundedBitmapActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/RoundedBitmapActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/SaveImageInPreference.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/SaveImageInPreference.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ScreenModeDis_Ean_Act.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ScreenModeDis_Ean_Act.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/SendE_MailAct.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/SendE_MailAct.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/SendLocatoNotificationAct.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/SendLocatoNotificationAct.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/SetPrefAct.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/SetPrefAct.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/StringToDateActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/StringToDateActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ToastActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ToastActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/UrlValidationRippleActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/UrlValidationRippleActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ValidationAct.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ValidationAct.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/VerticalTextViewsActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/VerticalTextViewsActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/VolumeActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/VolumeActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/blurEffectsOnDrawableAct.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/blurEffectsOnDrawableAct.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/utils/build/intermediates/dex/debug/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" afterPath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/utils/build/intermediates/res/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/outputs/apk/utils-debug-unaligned.apk" afterPath="$PROJECT_DIR$/utils/build/outputs/apk/utils-debug-unaligned.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/outputs/apk/utils-debug.apk" afterPath="$PROJECT_DIR$/utils/build/outputs/apk/utils-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/utils/src/main/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/src/main/java/com/common/utils/MainActivity.java" afterPath="$PROJECT_DIR$/utils/src/main/java/com/common/utils/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build.gradle" afterPath="$PROJECT_DIR$/utils/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/utils.iml" afterPath="$PROJECT_DIR$/utils/utils.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/utils/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/generated/source/r/debug/com/common/utils/R.java" afterPath="$PROJECT_DIR$/utils/build/generated/source/r/debug/com/common/utils/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/generated/source/r/debug/eu/janmuller/android/simplecropimage/R.java" afterPath="$PROJECT_DIR$/utils/build/generated/source/r/debug/eu/janmuller/android/simplecropimage/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/utils/build/intermediates/symbols/debug/R.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/utils/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/incremental/mergeResourcesdebug/merger.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/incremental/mergeResourcesdebug/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Android_util.iws" />
@@ -55,17 +117,20 @@
         <entry file="file://$PROJECT_DIR$/utils/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
-              <folding />
+              <caret line="210" column="48" selection-start-line="210" selection-start-column="48" selection-end-line="210" selection-end-column="48" />
+              <folding>
+                <element signature="e#1817#1835#0" expanded="true" />
+                <element signature="e#7576#7614#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/utils/src/main/java/com/common/utils/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2513465">
-              <caret line="115" column="48" selection-start-line="115" selection-start-column="48" selection-end-line="115" selection-end-column="48" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="310" column="74" selection-start-line="310" selection-start-column="74" selection-end-line="310" selection-end-column="74" />
               <folding>
                 <element signature="e#6409#6437#0" expanded="true" />
               </folding>
@@ -73,46 +138,67 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Common.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/utils/src/main/java/com/common/utils/Common.java">
+      <file leaf-file-name="OpenUrlINBrowserAct.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/src/main/java/com/common/example/OpenUrlINBrowserAct.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="1431" column="31" selection-start-line="1431" selection-start-column="31" selection-end-line="1431" selection-end-column="31" />
+              <caret line="33" column="54" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="54" />
               <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#19858#19859#0" expanded="false" />
-                <element signature="e#19897#19898#0" expanded="false" />
-                <element signature="e#47100#47101#0" expanded="false" />
-                <element signature="e#47153#47154#0" expanded="false" />
-                <element signature="e#48281#48282#0" expanded="false" />
-                <element signature="e#48345#48346#0" expanded="false" />
-                <element signature="e#61656#61657#0" expanded="false" />
-                <element signature="e#61719#61720#0" expanded="false" />
-                <element signature="e#62665#62666#0" expanded="false" />
-                <element signature="e#62728#62729#0" expanded="false" />
-                <element signature="e#66722#66723#0" expanded="false" />
-                <element signature="e#66785#66786#0" expanded="false" />
-                <element signature="e#67731#67732#0" expanded="false" />
-                <element signature="e#67794#67795#0" expanded="false" />
+                <element signature="e#878#1646#0" expanded="true" />
+                <element signature="e#1645#1646#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_home.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/utils/src/main/res/layout/activity_home.xml">
+      <file leaf-file-name="HanZiToPinYin.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/src/main/java/com/common/utils/util/HanZiToPinYin.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Hanzi2PinyinActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/utils/src/main/java/com/common/utils/Hanzi2PinyinActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.8022388">
+              <caret line="32" column="80" selection-start-line="32" selection-start-column="80" selection-end-line="32" selection-end-column="80" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#746#1077#0" expanded="true" />
+                <element signature="e#1076#1077#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_hanzi2pinyin.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/src/main/res/layout/activity_hanzi2pinyin.xml">
+          <provider editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
-          <provider editor-type-id="android-designer">
+          <provider selected="true" editor-type-id="android-designer">
             <state />
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="layoutResourceFile_vertical" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -2273,7 +2359,6 @@
       <list>
         <option value="$PROJECT_DIR$/simplecropimagelib/build.gradle" />
         <option value="$PROJECT_DIR$/utils/build.gradle" />
-        <option value="$PROJECT_DIR$/utils/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/utils/src/main/res/layout/activity_color_picker.xml" />
         <option value="$PROJECT_DIR$/utils/src/main/res/layout/activity_common.xml" />
         <option value="$PROJECT_DIR$/utils/src/main/res/layout/activity_pick_capture.xml" />
@@ -2283,7 +2368,11 @@
         <option value="$PROJECT_DIR$/utils/src/main/res/layout/pinch_zoom_image_view.xml" />
         <option value="$PROJECT_DIR$/utils/src/main/java/com/common/example/blurEffectsOnDrawableAct.java" />
         <option value="$PROJECT_DIR$/utils/src/main/java/com/common/example/RoundedBitmapActivity.java" />
+        <option value="$PROJECT_DIR$/utils/src/main/java/com/common/utils/util/HanZiToPinYin.java" />
+        <option value="$PROJECT_DIR$/utils/src/main/res/layout/activity_hanzi2pinyin.xml" />
+        <option value="$PROJECT_DIR$/utils/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/utils/src/main/java/com/common/utils/MainActivity.java" />
+        <option value="$PROJECT_DIR$/utils/src/main/java/com/common/utils/Hanzi2PinyinActivity.java" />
       </list>
     </option>
   </component>
@@ -2366,6 +2455,24 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Android_util" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
@@ -2375,6 +2482,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Android_util" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="util" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -2659,6 +2792,13 @@
       <option name="number" value="Default" />
       <updated>1441364932178</updated>
     </task>
+    <task id="LOCAL-00001" summary="add function of hanzi2pinyin">
+      <created>1441434898979</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1441434898979</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2672,14 +2812,16 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49317408" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.49317408" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -2690,8 +2832,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -2707,7 +2847,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update to studio" />
-    <option name="LAST_COMMIT_MESSAGE" value="update to studio" />
+    <MESSAGE value="add function of hanzi2pinyin" />
+    <option name="LAST_COMMIT_MESSAGE" value="add function of hanzi2pinyin" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -2718,7 +2859,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
-          <folding />
+          <folding>
+            <element signature="e#1817#1835#0" expanded="true" />
+            <element signature="e#7576#7614#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2736,23 +2880,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1431" column="31" selection-start-line="1431" selection-start-column="31" selection-end-line="1431" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#19858#19859#0" expanded="false" />
-            <element signature="e#19897#19898#0" expanded="false" />
-            <element signature="e#47100#47101#0" expanded="false" />
-            <element signature="e#47153#47154#0" expanded="false" />
-            <element signature="e#48281#48282#0" expanded="false" />
-            <element signature="e#48345#48346#0" expanded="false" />
-            <element signature="e#61656#61657#0" expanded="false" />
-            <element signature="e#61719#61720#0" expanded="false" />
-            <element signature="e#62665#62666#0" expanded="false" />
-            <element signature="e#62728#62729#0" expanded="false" />
-            <element signature="e#66722#66723#0" expanded="false" />
-            <element signature="e#66785#66786#0" expanded="false" />
-            <element signature="e#67731#67732#0" expanded="false" />
-            <element signature="e#67794#67795#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2785,6 +2913,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2824,6 +2953,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2836,6 +2966,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7307692">
           <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2843,6 +2974,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.47802198">
           <caret line="37" column="63" selection-start-line="37" selection-start-column="57" selection-end-line="37" selection-end-column="63" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2850,6 +2982,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6017964">
           <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
       <provider editor-type-id="android-designer">
@@ -2860,6 +2993,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33233532">
           <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
       <provider editor-type-id="android-designer">
@@ -2870,6 +3004,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33233532">
           <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
       <provider editor-type-id="android-designer">
@@ -2880,6 +3015,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33233532">
           <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
       <provider editor-type-id="android-designer">
@@ -2890,6 +3026,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33233532">
           <caret line="51" column="37" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
       <provider editor-type-id="android-designer">
@@ -2900,6 +3037,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.502994">
           <caret line="107" column="34" selection-start-line="107" selection-start-column="34" selection-end-line="107" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
       <provider editor-type-id="android-designer">
@@ -2910,6 +3048,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.866667">
           <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
       <provider editor-type-id="android-designer">
@@ -2963,6 +3102,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.2015114">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
       <provider editor-type-id="android-designer">
@@ -2976,14 +3116,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/utils/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/utils/src/main/java/com/common/utils/HomeActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2991,34 +3123,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/utils/src/main/java/com/common/utils/CropImageActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.06822262">
+          <caret line="23" column="48" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/utils/src/main/java/com/common/utils/Common.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1431" column="31" selection-start-line="1431" selection-start-column="31" selection-end-line="1431" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#19858#19859#0" expanded="false" />
-            <element signature="e#19897#19898#0" expanded="false" />
-            <element signature="e#47100#47101#0" expanded="false" />
-            <element signature="e#47153#47154#0" expanded="false" />
-            <element signature="e#48281#48282#0" expanded="false" />
-            <element signature="e#48345#48346#0" expanded="false" />
-            <element signature="e#61656#61657#0" expanded="false" />
-            <element signature="e#61719#61720#0" expanded="false" />
-            <element signature="e#62665#62666#0" expanded="false" />
-            <element signature="e#62728#62729#0" expanded="false" />
-            <element signature="e#66722#66723#0" expanded="false" />
-            <element signature="e#66785#66786#0" expanded="false" />
-            <element signature="e#67731#67732#0" expanded="false" />
-            <element signature="e#67794#67795#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.17055656">
+          <caret line="1358" column="0" selection-start-line="1358" selection-start-column="0" selection-end-line="1358" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/utils/src/main/res/layout/activity_home.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.21631879">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -3026,12 +3150,67 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/utils/src/main/res/layout/activity_hanzi2pinyin.xml">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="210" column="48" selection-start-line="210" selection-start-column="48" selection-end-line="210" selection-end-column="48" />
+          <folding>
+            <element signature="e#1817#1835#0" expanded="true" />
+            <element signature="e#7576#7614#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/utils/src/main/java/com/common/utils/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2513465">
-          <caret line="115" column="48" selection-start-line="115" selection-start-column="48" selection-end-line="115" selection-end-column="48" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="310" column="74" selection-start-line="310" selection-start-column="74" selection-end-line="310" selection-end-column="74" />
           <folding>
             <element signature="e#6409#6437#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/src/main/java/com/common/utils/util/HanZiToPinYin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/src/main/java/com/common/example/OpenUrlINBrowserAct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="54" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="54" />
+          <folding>
+            <element signature="e#878#1646#0" expanded="true" />
+            <element signature="e#1645#1646#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/src/main/java/com/common/utils/Hanzi2PinyinActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8022388">
+          <caret line="32" column="80" selection-start-line="32" selection-start-column="80" selection-end-line="32" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#746#1077#0" expanded="true" />
+            <element signature="e#1076#1077#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -2,6 +2,41 @@
 <items version="2" >
 
     <item
+        jar="E:\StudyDepot\code\Android_util\utils\build\intermediates\exploded-aar\com.github.traex.rippleeffect\library\1.2.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0a4207597233f779fc933633711517b53ae84d29">
+        <dex dex="E:\StudyDepot\code\Android_util\utils\build\intermediates\pre-dexed\debug\classes-ac4a7f142e39fbeb7e6a5b0ba45f92d34fd65bf6.jar" />
+    </item>
+    <item
+        jar="E:\StudyDepot\code\Android_util\utils\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\StudyDepot\code\Android_util\utils\build\intermediates\pre-dexed\debug\classes-b87eb341d517a3434d1d32d4ad0b0cde1caae0b6.jar" />
+    </item>
+    <item
+        jar="E:\StudyDepot\code\Android_util\utils\build\intermediates\exploded-aar\Android_util\simplecropimagelib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9868a51d72f2c99be1ff6b6530fe633d64f7b417">
+        <dex dex="E:\StudyDepot\code\Android_util\utils\build\intermediates\pre-dexed\debug\classes-a7fccead25350a6bcf21be86b3f8d4543fafd8a7.jar" />
+    </item>
+    <item
+        jar="E:\StudyDepot\code\Android_util\utils\libs\linkedin-j-android-1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="13bae5a8934c403ab39853974dd6e798d2217ae7">
+        <dex dex="E:\StudyDepot\code\Android_util\utils\build\intermediates\pre-dexed\debug\linkedin-j-android-1.0-69a393175e3a4c09bcfb24547531486d176e8c2f.jar" />
+    </item>
+    <item
+        jar="E:\StudyDepot\code\Android_util\utils\libs\pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="E:\StudyDepot\code\Android_util\utils\build\intermediates\pre-dexed\debug\pinyin4j-2.5.0-2cc4f2056a291cb5a6b5bb0f857d7a8aa09572c1.jar" />
+    </item>
+    <item
         jar="F:\Android\adt-bundle-windows-x86-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
         jumboMode="false"
         revision="22.0.1"
@@ -23,13 +58,6 @@
         <dex dex="E:\StudyDepot\code\Android_util\utils\build\intermediates\pre-dexed\debug\signpost-commonshttp4-1.2.1.1-4810a3c2dbc71b3ace77800c839cd69ce506a311.jar" />
     </item>
     <item
-        jar="E:\StudyDepot\code\Android_util\utils\libs\scribe-1.3.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="8a9f92023995a881e97622f82a2dd36d23dda06c">
-        <dex dex="E:\StudyDepot\code\Android_util\utils\build\intermediates\pre-dexed\debug\scribe-1.3.0-91a5147fa35b8573ec98a9ddd1d8820c4ef20c5e.jar" />
-    </item>
-    <item
         jar="E:\StudyDepot\code\Android_util\utils\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
         jumboMode="false"
         revision="22.0.1"
@@ -37,32 +65,11 @@
         <dex dex="E:\StudyDepot\code\Android_util\utils\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-e535e2a4174f7fc54cd35c9b3b8f342a8f627e5c.jar" />
     </item>
     <item
-        jar="E:\StudyDepot\code\Android_util\utils\build\intermediates\exploded-aar\Android_util\simplecropimagelib\unspecified\jars\classes.jar"
+        jar="E:\StudyDepot\code\Android_util\utils\libs\scribe-1.3.0.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="9868a51d72f2c99be1ff6b6530fe633d64f7b417">
-        <dex dex="E:\StudyDepot\code\Android_util\utils\build\intermediates\pre-dexed\debug\classes-a7fccead25350a6bcf21be86b3f8d4543fafd8a7.jar" />
-    </item>
-    <item
-        jar="E:\StudyDepot\code\Android_util\utils\libs\linkedin-j-android-1.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="13bae5a8934c403ab39853974dd6e798d2217ae7">
-        <dex dex="E:\StudyDepot\code\Android_util\utils\build\intermediates\pre-dexed\debug\linkedin-j-android-1.0-69a393175e3a4c09bcfb24547531486d176e8c2f.jar" />
-    </item>
-    <item
-        jar="E:\StudyDepot\code\Android_util\utils\build\intermediates\exploded-aar\com.github.traex.rippleeffect\library\1.2.3\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="0a4207597233f779fc933633711517b53ae84d29">
-        <dex dex="E:\StudyDepot\code\Android_util\utils\build\intermediates\pre-dexed\debug\classes-ac4a7f142e39fbeb7e6a5b0ba45f92d34fd65bf6.jar" />
-    </item>
-    <item
-        jar="E:\StudyDepot\code\Android_util\utils\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="E:\StudyDepot\code\Android_util\utils\build\intermediates\pre-dexed\debug\classes-b87eb341d517a3434d1d32d4ad0b0cde1caae0b6.jar" />
+        sha1="8a9f92023995a881e97622f82a2dd36d23dda06c">
+        <dex dex="E:\StudyDepot\code\Android_util\utils\build\intermediates\pre-dexed\debug\scribe-1.3.0-91a5147fa35b8573ec98a9ddd1d8820c4ef20c5e.jar" />
     </item>
     <item
         jar="E:\StudyDepot\code\Android_util\utils\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"

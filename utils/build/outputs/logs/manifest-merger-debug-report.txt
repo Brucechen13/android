@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:2:1-217:12
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:2:1-219:12
 	package
 		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:3:11-37
 		INJECTED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml
@@ -84,7 +84,7 @@ ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:30
 	android:name
 		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:30:22-69
 application
-ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:32:5-215:19
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:32:5-217:19
 MERGED from [com.android.support:appcompat-v7:21.0.3] E:\StudyDepot\code\Android_util\utils\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\AndroidManifest.xml:16:5-19
 MERGED from [com.android.support:support-v4:21.0.3] E:\StudyDepot\code\Android_util\utils\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:16:5-19
 MERGED from [com.android.support:support-v4:21.0.3] E:\StudyDepot\code\Android_util\utils\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:16:5-19
@@ -419,11 +419,15 @@ activity#eu.janmuller.android.simplecropimage.CropImage
 ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:209:9-82
 	android:name
 		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:209:19-80
-provider#com.common.utils.InternalStorageContentProvider
-ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:211:9-214:38
-	android:authorities
-		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:213:13-51
-	android:exported
-		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:214:13-36
+activity#com.common.utils.Hanzi2PinyinActivity
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:211:9-57
 	android:name
-		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:212:13-59
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:211:19-55
+provider#com.common.utils.InternalStorageContentProvider
+ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:213:9-216:38
+	android:authorities
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:215:13-51
+	android:exported
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:216:13-36
+	android:name
+		ADDED from E:\StudyDepot\code\Android_util\utils\src\main\AndroidManifest.xml:214:13-59
