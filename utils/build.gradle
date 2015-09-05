@@ -33,4 +33,5 @@ dependencies {
     //    compile project(':MaterialDesign')
     //    compile 'com.github.navasmdc:MaterialDesign:1.+@aar'
     compile project(':simplecropimagelib')
+    compile files('libs/pinyin4j-2.5.0.jar')
 }

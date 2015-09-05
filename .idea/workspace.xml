@@ -10,510 +10,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5158a57-0172-43b1-9015-3e28f96c1b87" name="Default" comment="update to studio">
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\.idea\dictionaries\Sanjay.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\simplecropimagelib\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\btn_crop_operator.9.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\simplecropimagelib\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\btn_crop_pressed.9.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\simplecropimagelib\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\camera_crop_height.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\simplecropimagelib\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\camera_crop_width.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\simplecropimagelib\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\ic_rotate_left.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\simplecropimagelib\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\ic_rotate_right.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\simplecropimagelib\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\indicator_autocrop.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\simplecropimagelib\build\intermediates\bundles\debug\res\values-cs\values.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\simplecropimagelib\build\intermediates\bundles\release\res\drawable-xhdpi-v4\btn_crop_operator.9.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\simplecropimagelib\build\intermediates\bundles\release\res\drawable-xhdpi-v4\btn_crop_pressed.9.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\simplecropimagelib\build\intermediates\bundles\release\res\drawable-xhdpi-v4\camera_crop_height.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\simplecropimagelib\build\intermediates\bundles\release\res\drawable-xhdpi-v4\camera_crop_width.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\simplecropimagelib\build\intermediates\bundles\release\res\drawable-xhdpi-v4\ic_rotate_left.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\simplecropimagelib\build\intermediates\bundles\release\res\drawable-xhdpi-v4\ic_rotate_right.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\simplecropimagelib\build\intermediates\bundles\release\res\drawable-xhdpi-v4\indicator_autocrop.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\simplecropimagelib\build\intermediates\bundles\release\res\values-cs\values.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\utils\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\utils\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\utils\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\utils\build\intermediates\exploded-aar\com.github.traex.rippleeffect\library\1.2.3\classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\utils\build\intermediates\pre-dexed\debug\classes-00a06ef94969d6262b37d1dfe802612026230c36.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\utils\build\intermediates\pre-dexed\debug\classes-658f9e87fb5f388c4375d1c44e5d1e8037914b5f.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\utils\build\intermediates\pre-dexed\debug\classes-8eec55c064cf24ecc1b3b77f03b0b883fd6b0d11.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\utils\build\intermediates\pre-dexed\debug\classes-e4d0fe1448f0585ac780256197ee84789e03a953.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\utils\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-a38400213339a802c73834736180ac207632e3cc.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\utils\build\intermediates\pre-dexed\debug\linkedin-j-android-1.0-13729406a718e07a590b2d98cc32dcecea4e8d56.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\utils\build\intermediates\pre-dexed\debug\scribe-1.3.0-99756609ee9ff5bfd873abf116592da1511dca6e.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\utils\build\intermediates\pre-dexed\debug\signpost-commonshttp4-1.2.1.1-13550a11dfd84237fe7efe2bcf8c8f7a019e5348.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\utils\build\intermediates\pre-dexed\debug\signpost-core-1.2.1.1-70ddcbeee0c59a4778f3cdc3fea7514010e20c9a.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\utils\build\intermediates\pre-dexed\debug\socialauth-4.4-a7b5d21b7d08017b49368b92756a4c121658864a.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\utils\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-d18b4cbb96c960a5f42e3215f41a3d115b44925e.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\utils\src\main\res\drawable-mdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\utils\src\main\res\drawable-xhdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\StudyDepot\code\Android_util\utils\src\main\res\drawable-xxhdpi\ic_launcher.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/AddressOnMapActivity$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/AddressOnMapActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/AddressOnMapActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/AddressOnMapActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/AppIconAct$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/AppIconAct$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/AppIconAct.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/AppIconAct.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ArraylistToStringActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ArraylistToStringActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/BackGroundMusicStartStopAct$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/BackGroundMusicStartStopAct$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/BackGroundMusicStartStopAct$2.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/BackGroundMusicStartStopAct$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/BackGroundMusicStartStopAct.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/BackGroundMusicStartStopAct.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/BackgroundMusicService.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/BackgroundMusicService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/BitmapManager$1.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/BitmapManager$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/BitmapManager$1.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/BitmapManager$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/BitmapManager$State.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/BitmapManager$State.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/BitmapManager$State.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/BitmapManager$State.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/BitmapManager$ThreadStatus.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/BitmapManager$ThreadStatus.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/BitmapManager$ThreadStatus.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/BitmapManager$ThreadStatus.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/BitmapManager.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/BitmapManager.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/BitmapManager.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/BitmapManager.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/BluetoothOrWifiOnOffAct$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/BluetoothOrWifiOnOffAct$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/BluetoothOrWifiOnOffAct$2.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/BluetoothOrWifiOnOffAct$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/BluetoothOrWifiOnOffAct.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/BluetoothOrWifiOnOffAct.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/BlurEffect.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/BlurEffect.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/BlurEffectActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/BlurEffectActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/CameraActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/CameraActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ChooseProfileActivity$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ChooseProfileActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ChooseProfileActivity$2.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ChooseProfileActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ChooseProfileActivity$3.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ChooseProfileActivity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ChooseProfileActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ChooseProfileActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ClientGetActivity$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ClientGetActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ClientGetActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ClientGetActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ClientPostActivity$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ClientPostActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ClientPostActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ClientPostActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ClientPostMultipartEntityActivity$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ClientPostMultipartEntityActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ClientPostMultipartEntityActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ClientPostMultipartEntityActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/CodeSnippestHomeActivity$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/CodeSnippestHomeActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/CodeSnippestHomeActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/CodeSnippestHomeActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ColorPickerActivity$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ColorPickerActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ColorPickerActivity$2.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ColorPickerActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ColorPickerActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ColorPickerActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/Common$1$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/Common$1$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/Common$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/Common$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/Common$10.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/Common$10.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/Common$11.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/Common$11.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/Common$12.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/Common$12.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/Common$13.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/Common$13.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/Common$2.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/Common$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/Common$3.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/Common$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/Common$4.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/Common$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/Common$5.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/Common$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/Common$6.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/Common$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/Common$7.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/Common$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/Common$8.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/Common$8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/Common$9.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/Common$9.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/Common.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/Common.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/CommonActivity$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/CommonActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/CommonActivity$ContactDataListener.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/CommonActivity$ContactDataListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/CommonActivity$MessageListener.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/CommonActivity$MessageListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/CommonActivity$ProfileDataListener.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/CommonActivity$ProfileDataListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/CommonActivity$ResponseListener.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/CommonActivity$ResponseListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/CommonActivity$UploadImageListener.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/CommonActivity$UploadImageListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/CommonActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/CommonActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/ContactActivity$ContactAdapter.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/ContactActivity$ContactAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/ContactActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/ContactActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/CreateFolderActivity$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/CreateFolderActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/CreateFolderActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/CreateFolderActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/CropImage$1.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/CropImage$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/CropImage$1.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/CropImage$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/CropImage$2.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/CropImage$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/CropImage$2.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/CropImage$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/CropImage$3.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/CropImage$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/CropImage$3.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/CropImage$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/CropImage$4.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/CropImage$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/CropImage$4.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/CropImage$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/CropImage$5$1.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/CropImage$5$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/CropImage$5$1.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/CropImage$5$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/CropImage$5.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/CropImage$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/CropImage$5.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/CropImage$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/CropImage$6.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/CropImage$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/CropImage$6.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/CropImage$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/CropImage$7$1.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/CropImage$7$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/CropImage$7$1.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/CropImage$7$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/CropImage$7.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/CropImage$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/CropImage$7.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/CropImage$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/CropImage.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/CropImage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/CropImage.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/CropImage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/CropImageActivity$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/CropImageActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/CropImageActivity$2.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/CropImageActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/CropImageActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/CropImageActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/CropImageView.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/CropImageView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/CropImageView.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/CropImageView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/DateDifferenceActivity$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/DateDifferenceActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/DateDifferenceActivity$2.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/DateDifferenceActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/DateDifferenceActivity$3.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/DateDifferenceActivity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/DateDifferenceActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/DateDifferenceActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/DateFormateAct$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/DateFormateAct$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/DateFormateAct.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/DateFormateAct.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/DownloadActivity$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/DownloadActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/DownloadActivity$2.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/DownloadActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/DownloadActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/DownloadActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/DownloadFile.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/DownloadFile.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/DownloadImageFromUrlAct$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/DownloadImageFromUrlAct$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/DownloadImageFromUrlAct.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/DownloadImageFromUrlAct.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/DrawableToBitmapActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/DrawableToBitmapActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/EmailContactsScreenShotActivity$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/EmailContactsScreenShotActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/EmailContactsScreenShotActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/EmailContactsScreenShotActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/FileCache.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/FileCache.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/FileCountActivity$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/FileCountActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/FileCountActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/FileCountActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/GetContacts.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/GetContacts.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/GetCurrentLocationAct$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/GetCurrentLocationAct$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/GetCurrentLocationAct.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/GetCurrentLocationAct.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/GetPrefAct$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/GetPrefAct$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/GetPrefAct$2.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/GetPrefAct$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/GetPrefAct.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/GetPrefAct.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/GetRandomNumberAct$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/GetRandomNumberAct$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/GetRandomNumberAct.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/GetRandomNumberAct.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/HighlightView$ModifyMode.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/HighlightView$ModifyMode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/HighlightView$ModifyMode.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/HighlightView$ModifyMode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/HighlightView.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/HighlightView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/HighlightView.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/HighlightView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/HomeActivity$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/HomeActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/HomeActivity$2.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/HomeActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/HomeActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/HomeActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/ImageLoader$BitmapDisplayer.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/ImageLoader$BitmapDisplayer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/ImageLoader$PhotosLoader.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/ImageLoader$PhotosLoader.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/ImageLoader.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/ImageLoader.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ImageVideoActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ImageVideoActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/ImageViewTouchBase$1.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/ImageViewTouchBase$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/ImageViewTouchBase$1.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/ImageViewTouchBase$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/ImageViewTouchBase$2.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/ImageViewTouchBase$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/ImageViewTouchBase$2.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/ImageViewTouchBase$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/ImageViewTouchBase.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/ImageViewTouchBase.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/ImageViewTouchBase.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/ImageViewTouchBase.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/InternalStorageContentProvider.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/InternalStorageContentProvider.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/LinkedInActivity$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/LinkedInActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/LinkedInActivity$MyCountDownTimer.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/LinkedInActivity$MyCountDownTimer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/LinkedInActivity$OauthEnd.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/LinkedInActivity$OauthEnd.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/LinkedInActivity$OauthStart$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/LinkedInActivity$OauthStart$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/LinkedInActivity$OauthStart.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/LinkedInActivity$OauthStart.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/LinkedInActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/LinkedInActivity.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/pinyin4j_2_5_0.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/MainActivity$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/MainActivity$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/MainActivity$2.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/MainActivity$2.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/MainActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/MaterialView.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/MaterialView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/MemoryCache.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/MemoryCache.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/MonitoredActivity.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/MonitoredActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/MonitoredActivity.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/MonitoredActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/OAuthActivity$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/OAuthActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/OAuthActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/OAuthActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/OpenUrlINBrowserAct$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/OpenUrlINBrowserAct$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/OpenUrlINBrowserAct.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/OpenUrlINBrowserAct.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/PickCaptureActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/PickCaptureActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/PinchZoom.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/PinchZoom.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/PinchZoomImageViewAct.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/PinchZoomImageViewAct.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/PopUpListAdapter.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/PopUpListAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/PostFixForNumberAct$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/PostFixForNumberAct$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/PostFixForNumberAct.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/PostFixForNumberAct.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/PreventClickActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/PreventClickActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/ProfileActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/ProfileActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/android/support/v7/appcompat/R$anim.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/android/support/v7/appcompat/R$anim.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$anim.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$anim.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/android/support/v7/appcompat/R$bool.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/android/support/v7/appcompat/R$bool.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$bool.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$bool.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/android/support/v7/appcompat/R$color.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/android/support/v7/appcompat/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/andexert/library/R$color.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/andexert/library/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$color.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/android/support/v7/appcompat/R$dimen.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/android/support/v7/appcompat/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$dimen.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/andexert/library/R$drawable.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/andexert/library/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$drawable.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/R$drawable.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/andexert/library/R$id.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/andexert/library/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$id.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/R$id.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$integer.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$layout.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/R$layout.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$raw.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$raw.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/android/support/v7/appcompat/R$string.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/android/support/v7/appcompat/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/andexert/library/R$string.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/andexert/library/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$string.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/R$string.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/android/support/v7/appcompat/R$style.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/android/support/v7/appcompat/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/andexert/library/R$style.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/andexert/library/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$style.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/R$style.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$styleable.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/RoundedBitmapActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/RoundedBitmapActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/SaveImageInPreference.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/SaveImageInPreference.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ScreenModeDis_Ean_Act$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ScreenModeDis_Ean_Act$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ScreenModeDis_Ean_Act$2.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ScreenModeDis_Ean_Act$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ScreenModeDis_Ean_Act.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ScreenModeDis_Ean_Act.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/SendE_MailAct$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/SendE_MailAct$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/SendE_MailAct.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/SendE_MailAct.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/SendLocatoNotificationAct$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/SendLocatoNotificationAct$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/SendLocatoNotificationAct.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/SendLocatoNotificationAct.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/SetPrefAct$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/SetPrefAct$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/SetPrefAct$2.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/SetPrefAct$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/SetPrefAct.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/SetPrefAct.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/ShareButtonAdapter.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/ShareButtonAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$1$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$1$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$2$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$2$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$2.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$3.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$4$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$4$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$4.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$5$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$5$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$5.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$6$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$6$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$6$2.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$6$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$6.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$AlbumTask.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$AlbumTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$CareerTask.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$CareerTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$ContactTask.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$ContactTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$FeedTask.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$FeedTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$ProfileTask.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$ProfileTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$Provider.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$Provider.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$StoryTask.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$StoryTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$UploadImageTask.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter$UploadImageTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthDialog$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthDialog$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthDialog$2.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthDialog$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthDialog$CustomWebView.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthDialog$CustomWebView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthDialog$SocialAuthWebViewClient$1$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthDialog$SocialAuthWebViewClient$1$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthDialog$SocialAuthWebViewClient$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthDialog$SocialAuthWebViewClient$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthDialog$SocialAuthWebViewClient$2$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthDialog$SocialAuthWebViewClient$2$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthDialog$SocialAuthWebViewClient$2.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthDialog$SocialAuthWebViewClient$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthDialog$SocialAuthWebViewClient$3.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthDialog$SocialAuthWebViewClient$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthDialog$SocialAuthWebViewClient.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthDialog$SocialAuthWebViewClient.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthDialog.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialAuthDialog.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialPerson$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialPerson$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialPerson.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/SocialPerson.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/StringToDateActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/StringToDateActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ToastActivity$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ToastActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ToastActivity$2.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ToastActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ToastActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ToastActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/TouchImageView$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/TouchImageView$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/TouchImageView$CompatScroller.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/TouchImageView$CompatScroller.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/TouchImageView$DoubleTapZoom.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/TouchImageView$DoubleTapZoom.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/TouchImageView$Fling.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/TouchImageView$Fling.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/TouchImageView$GestureListener.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/TouchImageView$GestureListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/TouchImageView$PrivateOnTouchListener.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/TouchImageView$PrivateOnTouchListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/TouchImageView$ScaleListener.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/TouchImageView$ScaleListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/TouchImageView$State.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/TouchImageView$State.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/TouchImageView.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/TouchImageView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/UrlValidationRippleActivity$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/UrlValidationRippleActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/UrlValidationRippleActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/UrlValidationRippleActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/Util$BackgroundJob$1.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/Util$BackgroundJob$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/Util$BackgroundJob$1.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/Util$BackgroundJob$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/Util$BackgroundJob.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/Util$BackgroundJob.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/Util$BackgroundJob.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/Util$BackgroundJob.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/Util.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/debug/eu/janmuller/android/simplecropimage/Util.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/Util.class" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/classes/release/eu/janmuller/android/simplecropimage/Util.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/Util.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/social/Util.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ValidationAct$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ValidationAct$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ValidationAct$2.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ValidationAct$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ValidationAct.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/ValidationAct.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/VerticalTextViewLeft.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/VerticalTextViewLeft.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/VerticalTextViewRight.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/utils/VerticalTextViewRight.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/VerticalTextViewsActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/VerticalTextViewsActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/VolumeActivity.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/VolumeActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/blurEffectsOnDrawableAct$1.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/blurEffectsOnDrawableAct$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/blurEffectsOnDrawableAct.class" afterPath="$PROJECT_DIR$/utils/build/intermediates/classes/debug/com/common/example/blurEffectsOnDrawableAct.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/utils/build/intermediates/dex/debug/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/bundles/debug/classes.jar" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/bundles/debug/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/bundles/release/classes.jar" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/bundles/release/classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" afterPath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/utils/build/intermediates/res/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/outputs/aar/simplecropimagelib-debug.aar" afterPath="$PROJECT_DIR$/simplecropimagelib/build/outputs/aar/simplecropimagelib-debug.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/outputs/aar/simplecropimagelib-release.aar" afterPath="$PROJECT_DIR$/simplecropimagelib/build/outputs/aar/simplecropimagelib-release.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/outputs/apk/utils-debug-unaligned.apk" afterPath="$PROJECT_DIR$/utils/build/outputs/apk/utils-debug-unaligned.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/outputs/apk/utils-debug.apk" afterPath="$PROJECT_DIR$/utils/build/outputs/apk/utils-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/bundles/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/bundles/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/bundles/release/AndroidManifest.xml" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/bundles/release/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/AndroidManifest.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.github.traex.rippleeffect/library/1.2.3/AndroidManifest.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.github.traex.rippleeffect/library/1.2.3/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/utils/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/generated/source/buildConfig/debug/eu/janmuller/android/simplecropimage/BuildConfig.java" afterPath="$PROJECT_DIR$/simplecropimagelib/build/generated/source/buildConfig/debug/eu/janmuller/android/simplecropimage/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/generated/source/buildConfig/release/eu/janmuller/android/simplecropimage/BuildConfig.java" afterPath="$PROJECT_DIR$/simplecropimagelib/build/generated/source/buildConfig/release/eu/janmuller/android/simplecropimage/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/generated/source/buildConfig/debug/com/common/utils/BuildConfig.java" afterPath="$PROJECT_DIR$/utils/build/generated/source/buildConfig/debug/com/common/utils/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android/support/v4/app/INotificationSideChannel.aidl" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android/support/v4/app/INotificationSideChannel.aidl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/utils/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/generated/source/r/debug/com/andexert/library/R.java" afterPath="$PROJECT_DIR$/utils/build/generated/source/r/debug/com/andexert/library/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/generated/source/r/debug/com/common/utils/R.java" afterPath="$PROJECT_DIR$/utils/build/generated/source/r/debug/com/common/utils/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/generated/source/r/debug/eu/janmuller/android/simplecropimage/R.java" afterPath="$PROJECT_DIR$/utils/build/generated/source/r/debug/eu/janmuller/android/simplecropimage/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/R.txt" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/utils/build/intermediates/symbols/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/src/main/java/com/common/example/RoundedBitmapActivity.java" afterPath="$PROJECT_DIR$/utils/src/main/java/com/common/example/RoundedBitmapActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_title_item.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_title_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_up_container.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_up_container.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_view_list_nav_layout.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_view_list_nav_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_menu_item_layout.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_menu_item_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_menu_layout.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_menu_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_mode_bar.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_mode_bar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_mode_close_item_material.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_mode_close_item_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view_include.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view_include.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view_list_item.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view_list_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_background_cache_hint_selector_material_dark.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_background_cache_hint_selector_material_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_background_cache_hint_selector_material_light.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_background_cache_hint_selector_material_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_btn_check_material.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_btn_check_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_btn_radio_material.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_btn_radio_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_cab_background_internal_bg.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_cab_background_internal_bg.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_cab_background_top_material.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_cab_background_top_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_edit_text_material.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_edit_text_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_expanded_menu_layout.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_expanded_menu_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_fade_in.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_fade_in.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_fade_out.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_fade_out.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_item_background_holo_dark.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_item_background_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_item_background_holo_light.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_item_background_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_checkbox.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_checkbox.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_icon.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_icon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_layout.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_radio.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_radio.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_background_transition_holo_dark.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_background_transition_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_background_transition_holo_light.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_background_transition_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_holo_dark.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_holo_light.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_popup_menu_item_layout.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_popup_menu_item_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_primary_text_disable_only_material_dark.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_primary_text_disable_only_material_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_primary_text_disable_only_material_light.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_primary_text_disable_only_material_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_primary_text_material_dark.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_primary_text_material_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_primary_text_material_light.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_primary_text_material_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_content_include.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_content_include.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout-v11/abc_screen_content_include.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout-v11/abc_screen_content_include.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_simple.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_simple.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_simple_overlay_action_mode.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_simple_overlay_action_mode.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_toolbar.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_toolbar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_search_dropdown_item_icons_2line.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_search_dropdown_item_icons_2line.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_search_url_text.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_search_url_text.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_search_view.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_search_view.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_secondary_text_material_dark.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_secondary_text_material_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_secondary_text_material_light.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_secondary_text_material_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_simple_dropdown_hint.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_simple_dropdown_hint.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_in_bottom.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_in_bottom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_in_top.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_in_top.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_out_bottom.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_out_bottom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_out_top.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_out_top.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_switch_thumb_material.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_switch_thumb_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_tab_indicator_material.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_tab_indicator_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_textfield_search_material.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_textfield_search_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/src/main/res/layout/activity_color_picker.xml" afterPath="$PROJECT_DIR$/utils/src/main/res/layout/activity_color_picker.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/src/main/res/layout/activity_common.xml" afterPath="$PROJECT_DIR$/utils/src/main/res/layout/activity_common.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/src/main/res/layout/activity_pick_capture.xml" afterPath="$PROJECT_DIR$/utils/src/main/res/layout/activity_pick_capture.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/src/main/res/layout/activity_rounded_bitmap.xml" afterPath="$PROJECT_DIR$/utils/src/main/res/layout/activity_rounded_bitmap.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/src/main/java/com/common/example/blurEffectsOnDrawableAct.java" afterPath="$PROJECT_DIR$/utils/src/main/java/com/common/example/blurEffectsOnDrawableAct.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/src/main/res/layout/blur_effect_on_image.xml" afterPath="$PROJECT_DIR$/utils/src/main/res/layout/blur_effect_on_image.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build.gradle" afterPath="$PROJECT_DIR$/simplecropimagelib/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/src/main/java/com/common/utils/MainActivity.java" afterPath="$PROJECT_DIR$/utils/src/main/java/com/common/utils/MainActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build.gradle" afterPath="$PROJECT_DIR$/utils/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/src/main/res/layout/contact_list.xml" afterPath="$PROJECT_DIR$/utils/src/main/res/layout/contact_list.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/bundles/debug/res/layout/cropimage.xml" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/bundles/debug/res/layout/cropimage.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/bundles/release/res/layout/cropimage.xml" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/bundles/release/res/layout/cropimage.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/bundles/debug/res/layout/main.xml" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/bundles/debug/res/layout/main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/bundles/release/res/layout/main.xml" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/bundles/release/res/layout/main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/incremental/mergeAssets/debug/merger.xml" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/incremental/mergeAssets/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/incremental/mergeAssets/release/merger.xml" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/incremental/mergeAssets/release/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/incremental/mergeAssets/debug/merger.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/incremental/mergeAssets/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/src/main/res/layout/pinch_zoom_image_view.xml" afterPath="$PROJECT_DIR$/utils/src/main/res/layout/pinch_zoom_image_view.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/bundles/debug/res/drawable/selector_crop_button.xml" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/bundles/debug/res/drawable/selector_crop_button.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/bundles/release/res/drawable/selector_crop_button.xml" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/bundles/release/res/drawable/selector_crop_button.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/simplecropimagelib.iml" afterPath="$PROJECT_DIR$/simplecropimagelib/simplecropimagelib.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/support_simple_spinner_dropdown_item.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/support_simple_spinner_dropdown_item.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/utils.iml" afterPath="$PROJECT_DIR$/utils/utils.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/bundles/debug/res/values/values.xml" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/bundles/debug/res/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/bundles/release/res/values/values.xml" afterPath="$PROJECT_DIR$/simplecropimagelib/build/intermediates/bundles/release/res/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-af/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-af/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-am/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-am/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ar/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ar/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-bg/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-bg/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-bn-rBD/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-bn-rBD/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-cs/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-cs/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-da/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-da/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-de/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-de/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-el/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-el/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-en-rGB/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-en-rGB/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-en-rIN/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-en-rIN/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-es/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-es/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-es-rUS/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-es-rUS/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-et-rEE/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-et-rEE/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-eu-rES/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-eu-rES/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fa/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fa/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fi/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fi/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fr/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fr/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fr-rCA/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fr-rCA/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-gl-rES/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-gl-rES/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-hi/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-hi/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-hr/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-hr/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-hu/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-hu/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-hy-rAM/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-hy-rAM/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-in/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-in/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-is-rIS/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-is-rIS/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-it/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-it/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-iw/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-iw/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ja/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ja/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ka-rGE/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ka-rGE/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-kk-rKZ/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-kk-rKZ/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-km-rKH/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-km-rKH/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-kn-rIN/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-kn-rIN/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ko/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ko/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ky-rKG/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ky-rKG/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-land/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-land/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-large/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-large/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-lo-rLA/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-lo-rLA/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-lt/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-lt/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-lv/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-lv/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mk-rMK/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mk-rMK/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ml-rIN/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ml-rIN/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mn-rMN/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mn-rMN/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mr-rIN/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mr-rIN/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ms-rMY/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ms-rMY/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-my-rMM/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-my-rMM/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-nb/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-nb/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ne-rNP/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ne-rNP/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-nl/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-nl/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-pl/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-pl/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-port/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-port/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-pt/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-pt/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-pt-rPT/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-pt-rPT/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ro/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ro/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ru/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ru/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-si-rLK/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-si-rLK/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sk/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sk/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sl/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sl/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sr/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sr/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sv/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sv/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sw/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sw/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sw600dp/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sw600dp/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ta-rIN/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ta-rIN/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-te-rIN/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-te-rIN/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-th/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-th/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-tl/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-tl/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-tr/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-tr/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-uk/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-uk/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ur-rPK/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ur-rPK/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-uz-rUZ/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-uz-rUZ/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v11/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v11/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v14/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v14/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v17/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v17/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v21/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v21/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-vi/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-vi/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w360dp/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w360dp/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w480dp/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w480dp/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w500dp/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w500dp/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w600dp/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w600dp/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w720dp/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w720dp/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-xlarge/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-xlarge/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-xlarge-land/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-xlarge-land/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-zh-rCN/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-zh-rCN/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-zh-rHK/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-zh-rHK/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-zh-rTW/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-zh-rTW/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-zu/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-zu/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.github.traex.rippleeffect/library/1.2.3/res/values/values.xml" afterPath="$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.github.traex.rippleeffect/library/1.2.3/res/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Android_util.iws" />
@@ -546,24 +55,60 @@
         <entry file="file://$PROJECT_DIR$/utils/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+              <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/utils/src/main/java/com/common/utils/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.2513465">
+              <caret line="115" column="48" selection-start-line="115" selection-start-column="48" selection-end-line="115" selection-end-column="48" />
               <folding>
-                <element signature="e#1672#1690#0" expanded="true" />
+                <element signature="e#6409#6437#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_color_picker.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/utils/src/main/res/layout/activity_color_picker.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
+      <file leaf-file-name="Common.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/src/main/java/com/common/utils/Common.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.6">
-              <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1431" column="31" selection-start-line="1431" selection-start-column="31" selection-end-line="1431" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#19858#19859#0" expanded="false" />
+                <element signature="e#19897#19898#0" expanded="false" />
+                <element signature="e#47100#47101#0" expanded="false" />
+                <element signature="e#47153#47154#0" expanded="false" />
+                <element signature="e#48281#48282#0" expanded="false" />
+                <element signature="e#48345#48346#0" expanded="false" />
+                <element signature="e#61656#61657#0" expanded="false" />
+                <element signature="e#61719#61720#0" expanded="false" />
+                <element signature="e#62665#62666#0" expanded="false" />
+                <element signature="e#62728#62729#0" expanded="false" />
+                <element signature="e#66722#66723#0" expanded="false" />
+                <element signature="e#66785#66786#0" expanded="false" />
+                <element signature="e#67731#67732#0" expanded="false" />
+                <element signature="e#67794#67795#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_home.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/src/main/res/layout/activity_home.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
           </provider>
         </entry>
       </file>
@@ -2313,7 +1858,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="E:\StudyDepot\code\Android_util" value="5765204116073" />
+        <entry key="E:\StudyDepot\code\Android_util" value="5765272462595" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -2587,6 +2132,7 @@
                             <option value="$MODULE_DIR$/libs/signpost-commonshttp4-1.2.1.1.jar" />
                             <option value="$MODULE_DIR$/libs/signpost-core-1.2.1.1.jar" />
                             <option value="$MODULE_DIR$/libs/scribe-1.3.0.jar" />
+                            <option value="$MODULE_DIR$/libs/pinyin4j-2.5.0.jar" />
                           </list>
                         </option>
                         <option name="path" value="$PROJECT_DIR$/utils" />
@@ -2737,6 +2283,7 @@
         <option value="$PROJECT_DIR$/utils/src/main/res/layout/pinch_zoom_image_view.xml" />
         <option value="$PROJECT_DIR$/utils/src/main/java/com/common/example/blurEffectsOnDrawableAct.java" />
         <option value="$PROJECT_DIR$/utils/src/main/java/com/common/example/RoundedBitmapActivity.java" />
+        <option value="$PROJECT_DIR$/utils/src/main/java/com/common/utils/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -2756,7 +2303,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -2773,9 +2320,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
-      <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2783,6 +2327,10 @@
               <option name="myItemId" value="Android_util" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -2818,16 +2366,88 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mipmap" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Android_util" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Android_util" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="utils">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="utils">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="utils">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="utils">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src/main">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2837,6 +2457,7 @@
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_5_API_21" />
     <property name="android.project.structure.last.selected" value="Project" />
     <property name="android.project.structure.proportion" value="0.15" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -2942,6 +2563,7 @@
     </configuration>
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="JAR_PATH" value="$PROJECT_DIR$/utils/libs/pinyin4j-2.5.0.jar" />
       <envs />
       <method />
     </configuration>
@@ -3041,36 +2663,44 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5869894" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5030257" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5869894" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Android" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.58361775" sideWeight="0.4969743" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49317408" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -3084,27 +2714,63 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/utils/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/src/main/java/com/common/utils/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6409#6437#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/src/main/java/com/common/utils/Common.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1431" column="31" selection-start-line="1431" selection-start-column="31" selection-end-line="1431" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#19858#19859#0" expanded="false" />
+            <element signature="e#19897#19898#0" expanded="false" />
+            <element signature="e#47100#47101#0" expanded="false" />
+            <element signature="e#47153#47154#0" expanded="false" />
+            <element signature="e#48281#48282#0" expanded="false" />
+            <element signature="e#48345#48346#0" expanded="false" />
+            <element signature="e#61656#61657#0" expanded="false" />
+            <element signature="e#61719#61720#0" expanded="false" />
+            <element signature="e#62665#62666#0" expanded="false" />
+            <element signature="e#62728#62729#0" expanded="false" />
+            <element signature="e#66722#66723#0" expanded="false" />
+            <element signature="e#66785#66786#0" expanded="false" />
+            <element signature="e#67731#67732#0" expanded="false" />
+            <element signature="e#67794#67795#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/src/main/res/layout/activity_home.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simplecropimagelib/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="4" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.260989">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3112,7 +2778,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.31318682">
           <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3120,7 +2785,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3128,7 +2792,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7307692">
           <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3161,7 +2824,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3170,21 +2832,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/utils/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
-          <folding>
-            <element signature="e#1672#1690#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/utils/src/main/java/com/common/example/RoundedBitmapActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7307692">
           <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3192,84 +2843,196 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.47802198">
           <caret line="37" column="63" selection-start-line="37" selection-start-column="57" selection-end-line="37" selection-end-column="63" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/utils/src/main/res/layout/pinch_zoom_image_view.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6017964">
           <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/utils/src/main/res/layout/contact_list.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33233532">
           <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
-          <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/utils/src/main/res/layout/blur_effect_on_image.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33233532">
           <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-          <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/utils/src/main/res/layout/activity_rounded_bitmap.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33233532">
           <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-          <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/utils/src/main/res/layout/activity_pick_capture.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33233532">
           <caret line="51" column="37" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
-          <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/utils/src/main/res/layout/activity_common.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.502994">
           <caret line="107" column="34" selection-start-line="107" selection-start-column="34" selection-end-line="107" selection-end-column="34" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/src/main/res/layout/activity_color_picker.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.866667">
+          <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simplecropimagelib/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53395784">
+          <caret line="12" column="60" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26697892">
+          <caret line="24" column="62" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="62" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/utils/src/main/res/layout/activity_color_picker.xml">
+    <entry file="jar://$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.github.traex.rippleeffect/library/1.2.3/jars/classes.jar!/com/andexert/library/RippleView.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.3809524">
+          <caret line="94" column="32" selection-start-line="94" selection-start-column="32" selection-end-line="94" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/build/intermediates/exploded-aar/com.github.traex.rippleeffect/library/1.2.3/res/values/values.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52380955">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/src/main/java/com/common/utils/MaterialLibrariesListActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.4941452">
+          <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/src/main/java/com/common/utils/CodeSnippestHomeActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="54" column="60" selection-start-line="54" selection-start-column="60" selection-end-line="54" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/src/main/res/layout/activity_prevent_click.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.2015114">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
       <provider editor-type-id="android-designer">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/src/main/java/com/common/example/ClientGetActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.6">
-          <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+        <state vertical-scroll-proportion="4.850117">
+          <caret line="119" column="45" selection-start-line="119" selection-start-column="45" selection-end-line="119" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/src/main/java/com/common/utils/HomeActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="61" selection-start-line="32" selection-start-column="61" selection-end-line="32" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/src/main/java/com/common/utils/Common.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1431" column="31" selection-start-line="1431" selection-start-column="31" selection-end-line="1431" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#19858#19859#0" expanded="false" />
+            <element signature="e#19897#19898#0" expanded="false" />
+            <element signature="e#47100#47101#0" expanded="false" />
+            <element signature="e#47153#47154#0" expanded="false" />
+            <element signature="e#48281#48282#0" expanded="false" />
+            <element signature="e#48345#48346#0" expanded="false" />
+            <element signature="e#61656#61657#0" expanded="false" />
+            <element signature="e#61719#61720#0" expanded="false" />
+            <element signature="e#62665#62666#0" expanded="false" />
+            <element signature="e#62728#62729#0" expanded="false" />
+            <element signature="e#66722#66723#0" expanded="false" />
+            <element signature="e#66785#66786#0" expanded="false" />
+            <element signature="e#67731#67732#0" expanded="false" />
+            <element signature="e#67794#67795#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/src/main/res/layout/activity_home.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/src/main/java/com/common/utils/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2513465">
+          <caret line="115" column="48" selection-start-line="115" selection-start-column="48" selection-end-line="115" selection-end-column="48" />
+          <folding>
+            <element signature="e#6409#6437#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
